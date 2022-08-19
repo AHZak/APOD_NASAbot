@@ -6,4 +6,6 @@ This is a simple Telegram bot written with Python, and Flask, wrapping NASA's [A
 
 The project also has a built-in file-based logging system which will help you better understand what is actually happening behind the scenes.
 
+## Running the bot
+
 > README will be updated with more instructions on how to run the bot locally.
